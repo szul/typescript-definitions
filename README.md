@@ -1,4 +1,2 @@
-typescript-definitions
+TinyMCE Typescript Definitions
 ======================
-
-TypeScript definitions
